@@ -1,2 +1,2 @@
-pierwsza linia drugi commit
+pierwsza linia n+1 commit
 druga linia trzeci commit
